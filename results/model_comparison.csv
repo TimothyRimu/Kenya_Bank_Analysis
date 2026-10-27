@@ -1,0 +1,7 @@
+,R2,MAE,RMSE
+Fixed-effects regression,0.854,0.461,0.625
+Ridge,0.729,0.607,0.852
+XGBoost,0.62,0.697,1.009
+Random forest,0.627,0.715,1.0
+Naive: last year's ROAA,0.614,0.722,1.017
+Bank average (training years),0.225,1.212,1.441

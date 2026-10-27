@@ -1,0 +1,7 @@
+specification,n,CIR_% coef,CIR_% p,NPL_% coef,NPL_% p
+Baseline: bank fixed effects,84,-0.235,0.0,0.031,0.0
++ year fixed effects,84,-0.269,0.0,0.024,0.002
+Drop NIM and LIQUIDITY (VIF > 7),84,-0.24,0.0,0.024,0.0
+Exclude NBK (most extreme NPLs),72,-0.163,0.0,0.007,0.573
+Exclude NPL > 30%,79,-0.221,0.0,0.036,0.124
+2008-2015 only,56,-0.276,0.0,0.024,0.281
